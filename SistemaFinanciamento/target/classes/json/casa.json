@@ -1,0 +1,14 @@
+{
+  "imoveis": [
+    {
+      "endereco": "Rua das Palmeiras, 10",
+      "preco": 400000.00,
+      "numQuartos": 4
+    },
+    {
+      "endereco": "Rua das Acácias, 25",
+      "preco": 550000.00,
+      "numQuartos": 5
+    }
+  ]
+}
