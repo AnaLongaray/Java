@@ -1,0 +1,14 @@
+{
+  "imoveis": [
+    {
+      "endereco": "Avenida Paulista, 300",
+      "preco": 320000.00,
+      "andar": 7
+    },
+    {
+      "endereco": "Rua Central, 101",
+      "preco": 280000.00,
+      "andar": 5
+    }
+  ]
+}
